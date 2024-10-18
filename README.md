@@ -2,12 +2,12 @@
 
 ## 👋 About Me
 안녕하세요! 저는 오승재입니다.
-저는 임베디드 시스템을 비롯 다양한 분야에 관심을 가지고 있으며, 
-또한, C, C++, Python, Java, Kotlin 같은 언어들을 학교에서 다뤄봤습니다.
+저는 임베디드 시스템을 비롯해 다양한 분야에 관심을 가지고 있으며, 
+또한, C, C++, Python, Java, Kotlin 같은 언어들을 비롯하여 MySQL, WireShark 같은 프로그램들을 다뤄봤습니다.
 
 - 🌱 **현재 배우고 있는 것**: A.I, Web, Mobile programming, Real-Time System
 - 💬 **관심 분야**: Embedded system
-- 🎯 **현재 목표**: 다양한 분야를 학습하여 적성에 맞는 분야 찾기
+- 🎯 **현재 목표**: 배운 지식를 활용하여 다양한 프로젝트 참여
 
 ## 🛠️ Tech Stack, Language
 ![C](https://img.shields.io/badge/C-01589C?style=for-the-badge&logo=c&logoColor=white)
